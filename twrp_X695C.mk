@@ -5,7 +5,7 @@
 #
 
 # Inherit from Infinix-X695C device
-$(call inherit-product, device/infinix/Infinix-X695C/device.mk)
+$(call inherit-product, device/infinix/X695C/device.mk)
 
 # Inherit some common TWRP stuff.
 $(call inherit-product, vendor/twrp/config/common.mk)
