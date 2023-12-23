@@ -12,7 +12,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Product Specifics
 PRODUCT_NAME := twrp_X695C
-PRODUCT_DEVICE := Infinix-X695C
+PRODUCT_DEVICE := X695C
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix X695C
 PRODUCT_MANUFACTURER := INFINIX
