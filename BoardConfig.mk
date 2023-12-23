@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/infinix/Infinix-X695C
+DEVICE_PATH := device/infinix/X695C
 
 # Architecture
 TARGET_ARCH := arm64
